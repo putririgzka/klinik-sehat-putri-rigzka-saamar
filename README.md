@@ -1,19 +1,19 @@
 # 🏥 Klinik Sehat
 
-Desktop clinic management application developed using Java NetBeans and MySQL.
+Desktop-based clinic management application developed using Java NetBeans and MySQL.
 
 ## 📖 Description
 
-Klinik Sehat is a desktop-based application created to manage patient data efficiently. This application implements CRUD (Create, Read, Update, Delete) operations using Java Swing for the user interface and MySQL as the database.
+Klinik Sehat is a desktop application designed to manage patient information efficiently. The system provides CRUD (Create, Read, Update, Delete) functionality and stores data in a MySQL database using JDBC.
 
 ## ✨ Features
 
 - Add patient data
-- View patient data
+- Search patient data
 - Update patient data
 - Delete patient data
-- Search patient data
-- Database integration with MySQL
+- Display patient list
+- MySQL database integration
 
 ## 🛠️ Technologies Used
 
@@ -22,6 +22,10 @@ Klinik Sehat is a desktop-based application created to manage patient data effic
 - NetBeans IDE
 - MySQL
 - JDBC
+
+## 📸 Application Preview
+
+> 
 
 ## 📂 Project Structure
 
