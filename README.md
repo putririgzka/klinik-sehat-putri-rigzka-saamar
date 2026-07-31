@@ -25,7 +25,7 @@ Klinik Sehat is a desktop application designed to manage patient information eff
 
 ## 📸 Application Preview
 
-> 
+![Klinik Sehat](screenshots/form-pasien.png)
 
 ## 📂 Project Structure
 
